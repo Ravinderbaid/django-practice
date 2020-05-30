@@ -1,0 +1,1 @@
+@"d:\trydjango\scripts\python.exe" "d:\trydjango\Scripts\markdown_py" %*
